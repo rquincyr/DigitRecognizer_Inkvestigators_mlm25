@@ -2,7 +2,3 @@
 
 Git repo for collaborating on Digit Recognizer challenge for MLM25
 
-
-
-testing\_QR
-
